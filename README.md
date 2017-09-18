@@ -1,6 +1,4 @@
-For LÖVE 0.11.0 (nightly build)
-
-This is a library for selecting colors.
+This is a LÖVE 0.11.0 (nightly build) library for selecting colors.
 
 ```lua
 function love.load()
