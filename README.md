@@ -33,9 +33,11 @@ Call the function returned by `require('colorchanger')` with (in any order):
 * the file name to automatically save colors to (no file by default)
 * the key to toggle the panel ('tab' by default)
 
-Left click and horizontally drag a color value to change it, or right click to set it to a random value.
+Change color values by scrolling or left clicking and horizontally dragging.
 
-Press the 'l' key while hovering over a color value to lock or unlock the color.
+Set a random value by right clicking.
+
+Lock or unlock a color by pressing the 'l' key.
 
 Changes to the gray boxes at the top affect all unlocked colors.
 
