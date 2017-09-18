@@ -1,4 +1,4 @@
-### For LÖVE 0.11.0 (nightly build)
+For LÖVE 0.11.0 (nightly build)
 
 This is a library for selecting colors.
 
