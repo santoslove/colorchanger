@@ -29,6 +29,8 @@ function love.draw()
 end
 ```
 
+It opens a panel next to the window, so the game needs to be running in windowed mode with enough horizontal space for the panel.
+
 Call the function returned by `require('colorchanger')` with (in any order):
 
 * the color table to use (\_G by default)
