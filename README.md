@@ -1,5 +1,7 @@
 This is a LÖVE 0.11.0 (nightly build) library for selecting colors.
 
+![](https://santoslove.github.io/colorchanger/colorchangerscreenshot.png)
+
 ```lua
 function love.load()
     if love.filesystem.getInfo('colors.lua') then
