@@ -1,4 +1,4 @@
-This is a LÖVE 0.11.0 (nightly build) library for selecting colors.
+This is a LÖVE 0.11.0 library for selecting colors.
 
 ![](https://santoslove.github.io/colorchanger/colorchangerscreenshot.png)
 
@@ -47,4 +47,4 @@ Changes to the gray boxes at the top affect all unlocked colors.
 
 The left color square is the "original" color and the right color square is the "changed" color. Left click on either to set the current color to the clicked color. Double-click on either to set the other one to the double-clicked color.
 
-This is public domain, please do whatever you want with it.
+This code is (public domain)[https://creativecommons.org/publicdomain/zero/1.0/], please do whatever you want with it.
