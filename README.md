@@ -46,3 +46,5 @@ Lock or unlock a color by pressing the 'l' key.
 Changes to the gray boxes at the top affect all unlocked colors.
 
 The left color square is the "original" color and the right color square is the "changed" color. Left click on either to set the current color to the clicked color. Double-click on either to set the other one to the double-clicked color.
+
+This is public domain, please do whatever you want with it.
