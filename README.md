@@ -1,4 +1,4 @@
-This is a LÖVE 0.11.0 library for selecting colors for your LÖVE game.
+This is a LÖVE 11 library for selecting colors for your LÖVE game.
 
 ![](https://santoslove.github.io/colorchanger/colorchangerscreenshot.png)
 
