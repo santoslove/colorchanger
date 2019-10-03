@@ -5,7 +5,7 @@ This is a LÖVE 0.11.0 library for selecting colors for your LÖVE game.
 ```lua
 function love.load()
     if love.filesystem.getInfo('colors.lua') then
-        colors = require('colors')
+        colors = require('colors', 'colors.lua')
     else
         colors = {
             background = {.2, .2, .2},
@@ -18,14 +18,13 @@ function love.load()
 end
 
 function love.draw()
-    love.graphics.setColor(color.background)
-    drawBackground()
+    love.graphics.setBackgroundColor(colors.background)
 
-    love.graphics.setColor(color.player)
-    drawPlayer()
+    love.graphics.setColor(colors.player)
+    love.graphics.circle('fill', 100, 100, 50)
 
-    love.graphics.setColor(color.box)
-    drawBox()
+    love.graphics.setColor(colors.box)
+    love.graphics.rectangle('fill', 300, 300, 100, 100)
 end
 ```
 
