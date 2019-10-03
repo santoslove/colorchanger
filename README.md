@@ -1,4 +1,4 @@
-This is a LÖVE 0.11.0 library for selecting colors.
+This is a LÖVE 0.11.0 library for selecting colors for your LÖVE game.
 
 ![](https://santoslove.github.io/colorchanger/colorchangerscreenshot.png)
 
@@ -41,7 +41,7 @@ Change color values by scrolling or left clicking and horizontally dragging.
 
 Set a random value by right clicking.
 
-Lock or unlock a color by pressing the 'l' key.
+Lock or unlock a color by pressing the 'L' key.
 
 Changes to the gray boxes at the top affect all unlocked colors.
 
