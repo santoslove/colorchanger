@@ -5,7 +5,7 @@ This is a LÖVE 11 library for selecting colors for your LÖVE game.
 ```lua
 function love.load()
     if love.filesystem.getInfo('colors.lua') then
-        colors = require('colors', 'colors.lua')
+        colors = require('colors')
     else
         colors = {
             background = {.2, .2, .2},
